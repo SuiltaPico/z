@@ -1,0 +1,4 @@
+/env/postgresql/bin
+/env/postgresql/data
+/env/postgresql/lib
+/env/postgresql/share
